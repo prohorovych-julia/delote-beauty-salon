@@ -1884,6 +1884,11 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item:not(.lg-zoomable).lg-co
     display: block;
     text-align: center;
   }
+	
+.main__container {
+	padding-top: 100px;
+	padding-bottom: 80px;
+}
 
   .block-about-us__image img {
     width: 15%;
